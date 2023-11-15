@@ -1,9 +1,9 @@
 # Student Grade Analysis Script
 
 ## Overview
-This Python script performs a statistical analysis on a dataset of student grades. 
+This Python script runs a statistical analysis on a dataset of final grades of 300 students. 
 It calculates the average grade, standard deviation, and the probability of achieving grades above certain thresholds both for individual students and for class averages. 
-The script utilizes the Central Limit Theorem to understand the behavior of class averages for a typical class of 30 students.
+The script utilizes the Central Limit Theorem to understand typical patterns of class averages for a group of 30 students.
 
 ## Prerequisites
 To run this script, you will need Python installed on your machine along with the following Python libraries:
